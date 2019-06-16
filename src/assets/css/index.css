@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+  display: block;
+}
+
+body {
+  font: 12px/1.5 tahoma,
+    arial,
+    'Hiragino Sans GB',
+    '\5b8b\4f53',
+    sans-serif;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+.grid-content {
+  /* border-radius: 4px; */
+  min-height: 36px;
+}
