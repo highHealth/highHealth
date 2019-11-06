@@ -1,8 +1,8 @@
 {
-  "name": "mph",
+  "name": "demoMan",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "MonkeySister <MonkeySister7248@163.com>",
+  "author": "gjys",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js --open",
