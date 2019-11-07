@@ -10,7 +10,7 @@
         <el-col :span="2"><div class="grid-content"></div></el-col>
         <el-col :span="2"><div class="grid-content"></div></el-col>
         <el-col :span="2"><div class="grid-content"></div></el-col> 
-        <el-col :span="2"><a href @click.prevent="person()">我的淘宝</a></el-col>
+        <el-col :span="2"><a href @click.prevent="person()">我的淘宝1111111</a></el-col>
         <el-col :span="2">
           <i class="fa fa-shopping-cart" style="color:red"></i>
           购物车
